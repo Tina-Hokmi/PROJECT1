@@ -1,0 +1,11 @@
+color bgColor = color(255);
+float circleSize = 100;
+
+void setup() {
+  size(800, 600);
+  background(bgColor);
+}
+
+void draw() {  
+  if (mousePressed) {
+   }
